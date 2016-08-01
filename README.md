@@ -28,7 +28,9 @@ CodeView 是一个能显示代码，并且能够进行代码高亮的一个控�
 
 项目地址：[https://github.com/barteksc/AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer)
 
-效果图：![](https://github.com/madongqiang2201/views/blob/master/imgs/pdfview.png)
+效果图：
+
+![](https://github.com/madongqiang2201/views/blob/master/imgs/pdfview.png)
 
 ### RichText
 
@@ -83,6 +85,40 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 效果图：
 
 ![](https://github.com/PaoloRotolo/AppIntro/blob/master/art/intro.png)
+
+## 卡片交互Card interaction
+
+这里介绍几种卡片交互体验的控件。
+
+### CardStackView
+
+非常酷炫的卡片是交互控件。
+
+项目地址：[https://github.com/loopeer/CardStackView](https://github.com/loopeer/CardStackView)
+
+效果图：
+
+![](https://github.com/loopeer/CardStackView/raw/master/screenshot/screenshot1.gif)  ![](https://github.com/loopeer/CardStackView/raw/master/screenshot/screenshot2.gif)
+
+### android-card-slide-panel
+
+就是“探探”app实现的那种交互体验，为此我还特意下了一个探探体验了一下，卡片上展示的全是美女！左右拖动操作页非常nice，探探这个产品交互简直无可挑剔。
+
+项目地址：[https://github.com/xmuSistone/android-card-slide-panel](https://github.com/xmuSistone/android-card-slide-panel)
+
+效果图：
+
+![](https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture03.gif)  ![](https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture2.gif)
+
+### ExpandingPager
+
+一个比较常规的卡片式交互控件。
+
+项目地址：[https://github.com/qs-lll/ExpandingPager](https://github.com/qs-lll/ExpandingPager)
+
+效果图：![](https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif)  ![](https://github.com/qs-lll/ExpandingPager/raw/master/img/size1.png)
+
+
 
 ## 加载框LoadingView
 主要介绍几种很漂亮的加载框，
@@ -156,38 +192,6 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 效果图：
 
 ![](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
-
-## 卡片交互Card interaction
-
-这里介绍几种卡片交互体验的控件。
-
-### CardStackView
-
-非常酷炫的卡片是交互控件。
-
-项目地址：[https://github.com/loopeer/CardStackView](https://github.com/loopeer/CardStackView)
-
-效果图：
-
-![](https://github.com/loopeer/CardStackView/raw/master/screenshot/screenshot1.gif)  ![](https://github.com/loopeer/CardStackView/raw/master/screenshot/screenshot2.gif)
-
-### android-card-slide-panel
-
-就是“探探”app实现的那种交互体验，为此我还特意下了一个探探体验了一下，卡片上展示的全是美女！左右拖动操作页非常nice，探探这个产品交互简直无可挑剔。
-
-项目地址：[https://github.com/xmuSistone/android-card-slide-panel](https://github.com/xmuSistone/android-card-slide-panel)
-
-效果图：
-
-![](https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture03.gif)  ![](https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture2.gif)
-
-### ExpandingPager
-
-一个比较常规的卡片式交互控件。
-
-项目地址：[https://github.com/qs-lll/ExpandingPager](https://github.com/qs-lll/ExpandingPager)
-
-效果图：![](https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif)  ![](https://github.com/qs-lll/ExpandingPager/raw/master/img/size1.png)
 
 ## 指示器Indicator
 
