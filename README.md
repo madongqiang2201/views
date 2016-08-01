@@ -25,8 +25,7 @@
 
 效果图：
 
-![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/ShapeChangeDrawable.gif)
-![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/GoodsDrawable.gif)
+![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/ShapeChangeDrawable.gif) ![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/GoodsDrawable.gif)
 ![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif)
 
 ### LiquidButton
@@ -93,8 +92,7 @@
 
 效果图：
 
-![](https://github.com/baoyachi/StepView/raw/master/art/snapshot.png)
-![](https://github.com/baoyachi/StepView/raw/master/art/vertical_stepview.gif)
+![](https://github.com/baoyachi/StepView/raw/master/art/snapshot.png) ![](https://github.com/baoyachi/StepView/raw/master/art/vertical_stepview.gif)
 
 ### stepper-indicator
 
@@ -128,8 +126,7 @@ CodeView 是一个能显示代码，并且能够进行代码高亮的一个控�
 
 效果图：
 
-![](https://camo.githubusercontent.com/e5410526007ee83dec13677be967a20dde52c113/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630363231313835333236353132)
-![](https://camo.githubusercontent.com/9ad566cb4deea6fdd94d7f3a31d25aed153f518f/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630363231313835343138313839)
+![](https://camo.githubusercontent.com/e5410526007ee83dec13677be967a20dde52c113/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630363231313835333236353132) ![](https://camo.githubusercontent.com/9ad566cb4deea6fdd94d7f3a31d25aed153f518f/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630363231313835343138313839)
 
 ### AndroidPdfViewer
 
