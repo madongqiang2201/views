@@ -19,8 +19,30 @@ CodeView 是一个能显示代码，并且能够进行代码高亮的一个控�
 
 效果图：
 
-![](https://camo.githubusercontent.com/e5410526007ee83dec13677be967a20dde52c113/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630363231313835333236353132) 
-![](https://camo.githubusercontent.com/9ad566cb4deea6fdd94d7f3a31d25aed153f518f/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630363231313835343138313839)
+<table>
+  <tr>
+    <td>
+    <img src="http://img.blog.csdn.net/20160621185326512" width="216"  height="382"/>
+    </td>
+    <td>
+    <img src="http://img.blog.csdn.net/20160621185350184" width="216"  height="382"/>
+    </td>
+    <td>
+    <img src="http://img.blog.csdn.net/20160621185403236" width="216"  height="382"/>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <img src="http://img.blog.csdn.net/20160621185418189" width="216"  height="382"/>
+    </td>
+    <td>
+    <img src="http://img.blog.csdn.net/20160621185434418" width="216"  height="382"/>
+    </td>
+    <td>
+    
+    </td>
+  </tr>
+</table>
 
 ### AndroidPdfViewer
 
@@ -30,13 +52,13 @@ CodeView 是一个能显示代码，并且能够进行代码高亮的一个控�
 
 效果图：
 
-![](https://github.com/madongqiang2201/views/blob/master/imgs/pdfview.png)
+<img src="https://github.com/madongqiang2201/views/blob/master/imgs/pdfview.png" width="240"  height="426"/>
 
 ### RichText
 
 Android平台下的富文本解析器，支持HTML和Markdown。
 
-项目地址：https://github.com/zzhoujay/RichText
+项目地址：[https://github.com/zzhoujay/RichText](https://github.com/zzhoujay/RichText)
 
 效果图：
 
@@ -76,6 +98,10 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 ![](https://github.com/amlcurran/ShowcaseView/raw/master/example@2x.png)  ![](https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png)
 
+| Holo | "New style" | Material |
+| --- | --- | --- |
+| ![Holo style showcaseview](https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png) | ![new style showcaseview](https://github.com/amlcurran/ShowcaseView/raw/master/example@2x.png) | ![Material style showcaseview](https://github.com/amlcurran/ShowcaseView/raw/master/material.png) |
+
 ### AppIntro
 
 一个常规的viewpager产品介绍页。
@@ -84,7 +110,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://github.com/PaoloRotolo/AppIntro/blob/master/art/intro.png)
+<img src="https://github.com/PaoloRotolo/AppIntro/blob/master/art/intro.png" width="240"  height="426"/>
 
 ## 卡片交互Card interaction
 
@@ -129,7 +155,8 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif)
+<img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif" width="240px" height="426px"/>
+<img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen2.gif" width="200px" height="200px"/>
 
 ### LoadingDrawable
 这个项目重要介绍一些酷炫的加载动画， 可以与任何View配合使用，作为加载动画或者Progressbar, 此外很适合与RecyclerRefreshLayout 配合使用作为刷新的loading 动画。
@@ -148,7 +175,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://camo.githubusercontent.com/6e51af802823444540390be079ecad75ef60019e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3333303137342f73637265656e73686f74732f323639353630302f636f6d705f322e676966)
+<img src="https://camo.githubusercontent.com/6e51af802823444540390be079ecad75ef60019e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3333303137342f73637265656e73686f74732f323639353630302f636f6d705f322e676966" width="240px" height="426px"/>
 
 ### LoadingView
 
@@ -167,7 +194,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://github.com/dodola/MetaballLoading/raw/master/metaball.gif)
+<img src="https://github.com/dodola/MetaballLoading/raw/master/metaball.gif" width="240px" height="426px"/>
 
 ## 提示框Dialog
 
@@ -191,7 +218,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
+<img src="https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif" width="240px" height="426px"/>
 
 ## 指示器Indicator
 
@@ -205,9 +232,9 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://github.com/baoyachi/StepView/raw/master/art/snapshot.png) 
+<img width="300" width=“500” src="https://github.com/baoyachi/StepView/raw/master/art/snapshot.png"></img>
 
-![](https://github.com/baoyachi/StepView/raw/master/art/vertical_stepview.gif)
+<img src="https://github.com/baoyachi/StepView/raw/master/art/vertical_stepview.gif" width="240" height=“426” />
 
 ### stepper-indicator
 
@@ -217,7 +244,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://github.com/badoualy/stepper-indicator/raw/master/ART/screen.gif)
+<img src="https://github.com/badoualy/stepper-indicator/raw/master/ART/screen.gif" width="240" />
 
 ### SpringIndicator
 
@@ -227,7 +254,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://raw.githubusercontent.com/chenupt/SpringIndicator/master/img/si_1.0.0.gif)
+<img src="https://raw.githubusercontent.com/chenupt/SpringIndicator/master/img/si_1.0.0.gif" width="240" height="426"/>
 
 ## 贝塞尔曲线
 
@@ -241,7 +268,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://github.com/venshine/BezierMaker/raw/master/screenshot/2.gif)
+<img src="https://github.com/venshine/BezierMaker/raw/master/screenshot/2.gif" width="240" height="426"/>
 
 ### Bubble-Notification
 
@@ -261,7 +288,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://raw.githubusercontent.com/wangjiegulu/DraggableFlagView/master/screenshot/draggableflagview.gif)
+<img src="https://raw.githubusercontent.com/wangjiegulu/DraggableFlagView/master/screenshot/draggableflagview.gif" width="240" height="426"/>
 
 ### BezierDemo
 
