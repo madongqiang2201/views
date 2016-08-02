@@ -88,6 +88,16 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 ![](https://github.com/binIoter/GuideView/raw/master/app/src/main/res/assets/review.gif)
 
+### Highlight
+
+鸿洋大神的作品，也是遮罩式引导页
+
+项目地址：[https://github.com/hongyangAndroid/Highlight](https://github.com/hongyangAndroid/Highlight)
+
+效果图：
+
+<img src="https://github.com/hongyangAndroid/Highlight/raw/master/highlight2.gif" width="240" height="426"/>
+
 ### ShowcaseView
 
 一个通过局部高亮达到突出重点，实现引导效果的控件。
