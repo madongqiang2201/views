@@ -153,7 +153,108 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：![](https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif)  ![](https://github.com/qs-lll/ExpandingPager/raw/master/img/size1.png)
 
+## 图片Image
 
+这里会介绍几个实现强大酷炫功能的自定义ImageView，还会介绍几个图片滤镜／裁剪／压缩的库。所以这里不是纯UI相关，而是图片处理全家桶 ^_^！。
+
+### CircleImageView
+
+一个非常漂亮的圆形ImageView，保持了ImageView的所有特性，可以像原生ImageView一样直接用Picasso加载图片展示。
+
+项目地址：[https://github.com/hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)
+
+效果图：
+
+<img src="https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="240"/>
+
+### PhotoView
+
+一个支持缩放功能的ImageView，通过多点触控或者双击都可以实现缩放效果。
+
+项目地址：[https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
+
+效果图：
+
+<img src="https://github.com/madongqiang2201/views/blob/master/imgs/photoview.gif" width="240" height="426"/>
+
+### rebound
+
+Facebook出品，必属精品。这个库不是一个控件库，而是一个功能库，实现了点击图片，像按压弹簧一样的效果；点击图片之后，图片会先缩小，再放大，效果非常绚丽漂亮。
+
+项目地址：[http://facebook.github.io/rebound/](http://facebook.github.io/rebound/)
+
+效果图：
+
+<img src="https://github.com/madongqiang2201/views/blob/master/imgs/rebound.gif" width="400"/>
+
+### InstaCapture
+
+这个库严格说起来和图片关系不大，这是一个强大的通过一行代码实现截屏的功能的库，而且可以指定当前activity截屏不包含哪些具体view组件，而且可以和当下流行的RXJava结合使用，非常简单易用，截屏之后的文件怎么处理就随便了，通常截屏文件我们还是要加载成位图显示的，所以先放在图片这里。
+
+项目地址：[https://github.com/tarek360/InstaCapture](https://github.com/tarek360/InstaCapture)
+
+效果图：
+
+<img src="https://github.com/madongqiang2201/views/blob/master/imgs/capture.gif" width="240" height="426"/>
+
+### PicassoFaceDetectionTransformation
+
+这是一个和Picasso配合使用的图片剪裁库，特点就是自带面部识别，会把脸部剪裁到中间。
+
+项目地址：[https://github.com/aryarohit07/PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation)
+
+效果图：
+
+原图：
+
+<img src="https://github.com/aryarohit07/PicassoFaceDetectionTransformation/raw/master/images/original_image1.jpg?raw=true" width="240"/>
+
+两种剪裁效果：左边的是居中剪裁，右边的是面部居中剪裁
+
+<img src="https://github.com/aryarohit07/PicassoFaceDetectionTransformation/raw/master/images/result_image1.jpg?raw=true" width="240"/>
+
+### Luban
+
+这又是一个功能库，实现高效率的无损图片压缩功能，作者对比了使用该库压缩和使用微信压缩的压缩比例，发现压缩效果和微信差不多！这是相当逆天的效果！有了这个库，其它的压缩库基本可以放一边了！
+
+项目地址：[https://github.com/Curzibn/Luban](https://github.com/Curzibn/Luban)
+
+效果图：和微信压缩效果对比
+
+内容 | 原图 | Luban | Wechat
+---|---|---|---
+截屏 720P |720*1280,390k|720*1280,87k|720*1280,56k
+截屏 1080P|1080*1920,2.21M|1080*1920,104k|1080*1920,112k
+拍照 13M(4:3)|3096*4128,3.12M|1548*2064,141k|1548*2064,147k
+拍照 9.6M(16:9)|4128*2322,4.64M|1032*581,97k|1032*581,74k
+滚动截屏|1080*6433,1.56M|1080*6433,351k|1080*6433,482k
+
+### Compressor
+
+又一个无损图片压缩处理库，这个库可能没有上面那个库厉害，但是这个库可以和RXJava配合使用，实现处理链式化，所以如果是RXJava深度用户的话，可以去看看。
+
+项目地址：[https://github.com/zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)
+
+### AndroidPhotoFilters
+
+这叒是一个功能库，实现了灵活多样的滤镜效果，相当漂亮。
+
+项目地址：[https://github.com/Zomato/AndroidPhotoFilters?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly](https://github.com/Zomato/AndroidPhotoFilters?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+效果图：
+
+<img src="https://github.com/Zomato/AndroidPhotoFilters/raw/master/art/photofilters.gif" width="240"/>
+
+### MagicCamera
+
+一个包含美颜等40余种实时滤镜的相机库，实现的是一个完整的照相机功能，可进行拍照、录像和图片修改。个人来说不喜欢这种杂合功能较多的库，我一向认为越小越精致，所以我一般不会使用这种库。但是可以学习里面的功能。
+
+项目地址：[https://github.com/wuhaoyu1990/MagicCamera](https://github.com/wuhaoyu1990/MagicCamera)
+
+效果图：
+
+<img src="https://github.com/wuhaoyu1990/MagicCamera/raw/master/Screenshot_1.png" width="240" height="426"/>
+<img src="https://github.com/wuhaoyu1990/MagicCamera/raw/master/Screenshot_4.png" width="240" height="426"/>
 
 ## 加载框LoadingView
 主要介绍几种很漂亮的加载框，
