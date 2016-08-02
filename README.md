@@ -62,7 +62,7 @@ Android平台下的富文本解析器，支持HTML和Markdown。
 
 效果图：
 
-![](https://github.com/zzhoujay/RichText/raw/master/image/image.jpg)
+<img src="https://github.com/zzhoujay/RichText/raw/master/image/image.jpg" width="240" height="426"/>
 
 ### MarkdownView-Android
 
@@ -95,8 +95,6 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 项目地址：[https://github.com/amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
 
 效果图：
-
-![](https://github.com/amlcurran/ShowcaseView/raw/master/example@2x.png)  ![](https://github.com/amlcurran/ShowcaseView/raw/master/example2@2x.png)
 
 | Holo | "New style" | Material |
 | --- | --- | --- |
@@ -134,7 +132,8 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-![](https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture03.gif)  ![](https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture2.gif)
+<img src="https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture03.gif" width="240" height="426"/>
+<img src="https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture2.gif" width="240" height="426"/>
 
 ### ExpandingPager
 
@@ -175,7 +174,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-<img src="https://camo.githubusercontent.com/6e51af802823444540390be079ecad75ef60019e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3333303137342f73637265656e73686f74732f323639353630302f636f6d705f322e676966" width="240px" height="426px"/>
+<img src="https://camo.githubusercontent.com/6e51af802823444540390be079ecad75ef60019e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3333303137342f73637265656e73686f74732f323639353630302f636f6d705f322e676966" width="240px"/>
 
 ### LoadingView
 
