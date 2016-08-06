@@ -52,7 +52,7 @@ CodeView 是一个能显示代码，并且能够进行代码高亮的一个控�
 
 效果图：
 
-<img src="https://github.com/madongqiang2201/views/blob/master/imgs/pdfview.png" width="240"  height="426"/>
+<img src="http://oam0f3ifh.bkt.clouddn.com/pdfview.png" width="240"  height="426"/>
 
 ### RichText
 
@@ -175,7 +175,7 @@ GuideView是一个遮罩式的导航页，能够快速为任何一个View创建�
 
 效果图：
 
-<img src="https://github.com/madongqiang2201/views/blob/master/imgs/photoview.gif" width="240" height="426"/>
+<img src="http://oam0f3ifh.bkt.clouddn.com/photoview.gif" width="240" height="426"/>
 
 ### rebound
 
@@ -185,7 +185,7 @@ Facebook出品，必属精品。这个库不是一个控件库，而是一个功
 
 效果图：
 
-<img src="https://github.com/madongqiang2201/views/blob/master/imgs/rebound.gif" width="400"/>
+<img src="http://oam0f3ifh.bkt.clouddn.com/rebound.gif" width="400"/>
 
 ### InstaCapture
 
@@ -195,7 +195,7 @@ Facebook出品，必属精品。这个库不是一个控件库，而是一个功
 
 效果图：
 
-<img src="https://github.com/madongqiang2201/views/blob/master/imgs/capture.gif" width="240" height="426"/>
+<img src="http://oam0f3ifh.bkt.clouddn.com/capture.gif" width="240" height="426"/>
 
 ### PicassoFaceDetectionTransformation
 
@@ -255,6 +255,177 @@ Facebook出品，必属精品。这个库不是一个控件库，而是一个功
 
 <img src="https://github.com/wuhaoyu1990/MagicCamera/raw/master/Screenshot_1.png" width="240" height="426"/>
 <img src="https://github.com/wuhaoyu1990/MagicCamera/raw/master/Screenshot_4.png" width="240" height="426"/>
+
+## 毛玻璃模糊效果Blur
+
+毛玻璃效果以前都是默默无闻的，直到微信在朋友圈搞了一个付费看图的功能之后，毛玻璃效果就流行了起来，下面介绍一些简单易用的实现毛玻璃效果的库。
+
+### Blurry
+
+Blurry没什么好介绍的，看效果图就行。
+
+项目地址：[https://github.com/wasabeef/Blurry/raw/master/art/blurry.gif](https://github.com/wasabeef/Blurry/raw/master/art/blurry.gif)
+
+效果图：
+
+<img src="https://github.com/wasabeef/Blurry/raw/master/art/blurry.gif" width="240"/>
+
+### ImageBlurring
+
+ImageBlurring的特点是使用多种手段实现对图片的模糊处理，并比较了处理效率，可以了解使用哪种方式处理图片效率更高。
+
+项目地址：[https://github.com/qiujuer/ImageBlurring](https://github.com/qiujuer/ImageBlurring)
+
+效果图：
+
+<img src="https://github.com/qiujuer/ImageBlurring/raw/master/images/anim.gif" width="240" height="426"/>
+
+## 图片裁剪
+
+图片裁剪功能很常用，如果你做一个app，有上传用户头像的功能，基本都要对原始图片进行剪裁，系统内置有剪裁功能，可通过特定intent触发，但是功能有限，不方便定制，这里介绍几个效果更好的图片剪裁库。
+
+### uCrop
+
+uCrop这个项目的目标是：提供终极的、灵活的图片剪裁体验！听着就很厉害的样子，事实上也确实非常厉害，个人认为这应该是史上体验最好的剪裁库。
+
+项目地址：[https://github.com/Yalantis/uCrop](https://github.com/Yalantis/uCrop)
+
+效果图：
+
+<img src="https://github.com/Yalantis/uCrop/raw/master/preview.gif"/>
+
+### android-crop
+
+android-crop看起来更像一个单纯的剪裁库，没有uCrop提供的那么多效果，但是就剪裁功能来说，还是很好的。
+
+项目地址：[https://github.com/jdamcd/android-crop](https://github.com/jdamcd/android-crop)
+
+效果图：
+
+<img src="https://github.com/jdamcd/android-crop/raw/master/screenshot.png" width="240"/>
+
+## 图片轮播
+
+图片轮播效果再网页上比较常见，通常网页首页最顶部就是几个大大的轮播图，当我们还在羡慕那种效果的时候，厉害的人已经在android上实现了类似功能。
+
+### AndroidImageSlider
+
+AndroidImageSlider是代码家大神开源的图片轮播库，支持从网络／drawable／文件夹在图片进行轮播展示，并且有很多酷炫的动画。
+
+项目地址：[https://github.com/daimajia/AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
+
+效果图：
+
+<img src="https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966" width="240"/>
+
+### DecentBanner
+
+DecentBanner是另一个支持图片自动滚动轮播，并支持友好动画的图片轮播库，话不多说，看效果图！
+
+项目地址：[https://github.com/chengdazhi/DecentBanner](https://github.com/chengdazhi/DecentBanner)
+
+效果图：
+
+<img src="https://github.com/chengdazhi/DecentBanner/raw/master/images/decent_sample.gif" width="240"/>
+
+## 仿微信从文件系统加载图片
+
+是不是还在羡慕微信发朋友圈的时候的图片选择效果，从现在起不用了，你也可以拥有那种效果了！
+
+### MultiImageSelector
+
+MultiImageSelector是一个高仿微信朋友圈图片选择的功能库，提供多种选择，例如可以配置选单张还是多张，可以配置最多选几张，还可以配置是否显示拍照按钮等。
+
+项目地址：[https://github.com/lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)
+
+效果图：
+
+<img src="https://github.com/lovetuzitong/MultiImageSelector/raw/master/art/select_2.png" width="240"/>
+<img src="https://github.com/lovetuzitong/MultiImageSelector/raw/master/art/select_3.png" width="240"/>
+
+## 仿微博加载超长大图
+
+用微博的时候，你一定见过那种点开长的不得了的大图，如果不做处理加载那么大的图片，早就不知道oom到那里去了，现在出现了一个实现类似微博加载超长大图的良心之作。
+
+### LargeImage
+
+LargeImage库，可以让你高清显示10000*10000像素的图片，轻松实现微博长图功能，怎么实现的也非常值得我们学习。
+
+项目地址：[https://github.com/LuckyJayce/LargeImage](https://github.com/LuckyJayce/LargeImage)
+
+效果图：
+
+<img src="http://oam0f3ifh.bkt.clouddn.com/android-img-xia.gif" width="240"/>
+
+## 加载动态图
+
+动态图和上面介绍的长图，除了在特定的应用，其实用的不是很多，但是，如果用到，我们一定要能够优雅的处理。
+
+### GifView
+
+GifView是一个可以播放GIF图片的自定义view，并且提供了开始／暂停／停止播放的功能。
+
+项目地址：[https://github.com/Cutta/GifView](https://github.com/Cutta/GifView)
+
+效果图：
+
+<img src="https://camo.githubusercontent.com/19b4e43298746358948ac05ce184fa4d99029159/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236745073594c356841344945474166752f67697068792e676966"/>
+
+### GifImageView
+
+GifImageView的特点是你可以针对每一帧进行操作，例如添加模糊效果等。
+
+项目地址：[https://github.com/felipecsl/GifImageView](https://github.com/felipecsl/GifImageView)
+
+效果图：
+
+<img src="https://raw.githubusercontent.com/felipecsl/GifImageView/master/demo.gif" width="240"/>
+
+## 其它黑科技
+
+出了常规使用的效果之外，总有一些人，实现了一些意想不到的效果。
+
+### android-shape-imageview
+
+这个项目简直把ImageView玩坏了-_-#，可以把图片蹂躏成各种形状，然而项目中出了圆图和矩形／圆角矩形外，其它的基本用不到。
+
+项目地址：[https://github.com/siyamed/android-shape-imageview](https://github.com/siyamed/android-shape-imageview)
+
+效果图：
+
+<img src="https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples.png" width="240"/>
+
+### FabricView
+
+这个控件就相当于是一个playground，可以让人玩的很开心，你可以在上面写文本，加载图片，甚至可以在上面用手指乱写乱画，挺好玩呢！
+
+项目地址：[https://github.com/antwankakki/FabricView](https://github.com/antwankakki/FabricView)
+
+效果图：
+
+<img src="http://imgur.com/O5O6oAM.jpeg" width="240"/>
+<img src="http://imgur.com/XdQAAQ1.jpeg" width="240"/>
+
+### SimpleTagImageView
+
+这个库相对于上面的两个库，就正常了很多，也比较实用。实现的是给图片角上打倾斜的tag。
+
+项目地址：[https://github.com/wujingchao/SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView)
+
+效果图：
+
+<img src="https://raw.githubusercontent.com/wujingchao/SimpleTagImageView/master/demo.jpg"/ width="240">
+<img src="https://raw.githubusercontent.com/wujingchao/SimpleTagImageView/master/demo.jpg"/ width="240"> 
+
+### MovingImageView
+
+这个控件可以加载一个超出屏幕大小的图片，然后让这个图片在屏幕范围内四处逛荡，也比较实用。
+
+项目地址：[https://github.com/AlbertGrobas/MovingImageView](https://github.com/AlbertGrobas/MovingImageView)
+
+效果图：
+
+<img src="https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample02.gif" width="240"/>
 
 ## 加载框LoadingView
 主要介绍几种很漂亮的加载框，
